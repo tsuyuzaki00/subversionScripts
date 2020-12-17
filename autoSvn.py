@@ -73,6 +73,3 @@ svnUpdate(_path)
 usdAdd(_path)
 svnDCCtoUSD(_path)
 """
-
-_path = "D:/Shotgun_work/new_angle_test/assets/01-Character/asset_test000/MDL/work/maya"
-usdAdd(_path)
